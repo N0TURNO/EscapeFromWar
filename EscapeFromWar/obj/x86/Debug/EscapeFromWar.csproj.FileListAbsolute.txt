@@ -1,0 +1,177 @@
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\PPII\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.exe
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.pdb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.exe
+C:\Users\Ferna\Desktop\EDJD\1º Ano\2ºSemestre\TDJ\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.pdb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.csprojResolveAssemblyReference.cache
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.exe
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.pdb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\e.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\a.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.exe
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.pdb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ChaoF.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ColisoesF.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Condutas.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\RedesAndExtras.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Teto.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\knife.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\menu.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GameOver.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SnakeAndarDir.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GS.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GS2.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\St.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\menusound.wav
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.exe
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.pdb
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GameOver.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GS.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GS2.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\menusound.wav
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SnakeAndarDir.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\St.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ChaoF.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ColisoesF.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Condutas.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\e.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\a.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\menu.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\RedesAndExtras.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\knife.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Teto.png
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SimpleSpriteSheet.xnb
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\edifícioindustrial_sound.xnb
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\exploraç¦o_sound.xnb
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\walk fast.xnb
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.exe
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.pdb
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ferna\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.exe
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.pdb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GameOver.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GS.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\GS2.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\menusound.wav
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SnakeAndarDir.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\St.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ChaoF.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ColisoesF.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Condutas.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\e.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\a.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\menu.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\RedesAndExtras.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\knife.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Teto.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\edifícioindustrial_sound.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\exploraç¦o_sound.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\walk fast.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SimpleSpriteSheet.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.exe
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.pdb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.csprojResolveAssemblyReference.cache
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SnakeAndarCima.png
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\trailer .xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\som-bot¦o.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\exterior_sound.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Plinskin.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\game over_sound 1.xnb
+C:\Users\Ferna\Desktop\EDJD\1º Ano\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Plinskin (1).xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SnakeAndarCima.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\edifícioindustrial_sound.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\exploraç¦o_sound.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\exterior_sound.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\game over_sound 1.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Plinskin.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Plinskin (1).xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\walk fast.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\som-bot¦o.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\trailer .xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\p.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\MenuF.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\gun.xnb
